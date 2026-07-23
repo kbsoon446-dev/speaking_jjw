@@ -1,5 +1,3 @@
-import './styles.css';
-
 const $ = (selector) => document.querySelector(selector);
 const today = new Date().toISOString();
 const ratings = {
